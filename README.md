@@ -9,4 +9,4 @@ Activities of Infinity- the saintgits mathematics club held on 29 September, 202
 
 The colab notebook containing fundamentals of linear algebra is given bellow:
 
-<>
+<https://github.com/GanithaNetra/Club-Activities/blob/main/Harnessing_the_power_of_Computational_Mathematics.ipynb>
