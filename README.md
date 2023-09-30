@@ -3,7 +3,7 @@ Repository containing Club activity contents
 
 # Inauguration of activities for AY2023-2024
 
-The formal Inauguration of cureent year activities of Infinity- the saintgits mathematics club was held on 29 September, 2023. During the function an expert talk was conducted  with the title `Harnessing the power of computational mathematics in engineering`. Sixty students and ten faculty members from various departments were attended the session.
+The formal Inauguration of current year activities of Infinity- the saintgits mathematics club was held on 29 September, 2023. During the function an expert talk was conducted  with the title `Harnessing the power of computational mathematics in engineering`. Sixty students and ten faculty members from various departments were attended the session.
 
 ![](https://github.com/GanithaNetra/Club-Activities/blob/main/Infinity-%20Mathematics%20club.bmp)
 
