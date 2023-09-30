@@ -11,7 +11,7 @@ The formal Inauguration of current year activities of Infinity- the saintgits ma
 
 # Session summary
 
-The rise of AI creates lot of challenges and opertunities to Engineering graduates. New tools and enironments demands deep computational knowledge in Mathematics. Unfortunately the current Mathematics curriculum focuses on the theoretical knowledge in pure & applied Mathematics. This gap in learning can be addressed by carefully designed value added programme/ minor programme in Computational Mathematics. Computational aspects of Linear Algebra is explained in connection with Digital Image Processing, Principal Component Analysis, Singular Value Decomposition and computational backgrounds of Generative AIs like Chat-GPT.
+The rise of AI creates a lot of challenges and opertunities to Engineering graduates. New tools and environments demands deep computational knowledge in Mathematics. Unfortunately the current Mathematics curriculum focuses on the theoretical knowledge in pure & applied Mathematics. This gap in learning can be addressed by carefully designed value added programme/ minor programme in Computational Mathematics. Computational aspects of Linear Algebra is explained in connection with Digital Image Processing, Principal Component Analysis, Singular Value Decomposition and computational backgrounds of Generative AIs like Chat-GPT.
 
 
 The session contents is available in the link:
