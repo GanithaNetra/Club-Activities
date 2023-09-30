@@ -7,7 +7,9 @@ Activities of Infinity- the saintgits mathematics club held on 29 September, 202
 
 ![](https://github.com/GanithaNetra/Club-Activities/blob/main/Infinity-%20Mathematics%20club.bmp)
 
-## Session summary
+
+
+# Session summary
 
 The rise of AI creates lot of challenges and opertunities to Engineering graduates. New tools and enironments demands deep computational knowledge in Mathematics. Unfortunately current Mathematics curriculum promote only theoretical knowledge in pure & applied Mathematics. This gap in learning can be addressed by carefully designed value added programme/ minor programme in Computational Mathematics. Computational aspects of Linear Algebra is explained in connection with Digital Image Processing, Principal Component Analysis, Singular Value Decomposition and computational backgrounds of Generative AIs like Chat-GPT.
 
